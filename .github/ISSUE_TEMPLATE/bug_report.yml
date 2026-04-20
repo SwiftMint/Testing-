@@ -1,5 +1,6 @@
 name: Bug report
 description: Report a defect or broken behavior
+labels: "help wanted"
 body:
   - type: dropdown
     id: issue_type
