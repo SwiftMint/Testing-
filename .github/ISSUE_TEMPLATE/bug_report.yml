@@ -9,6 +9,7 @@ body:
       description: These values match the GitLab label set used for Horizon Suite triage.
       options:
         - "[Enhancement] Improvement"
+          label: "[Enhancement] Improvement"
         - "[Enhancement] Feature"
         - "[Enhancement] Localization"
     validations:
