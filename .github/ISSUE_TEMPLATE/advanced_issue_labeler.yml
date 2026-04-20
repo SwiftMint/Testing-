@@ -6,4 +6,4 @@
       - id: ['module']
         label:
           - name: '[Module] Focus'
-            keys: ['[Module] Focus']
+            key: ['[Module] Focus']
