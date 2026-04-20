@@ -5,7 +5,7 @@ description: The entry is officially recorded on GitLab. It will be in the queue
 labels: ["Logged"] #Automatically Applied Labels on Submission
 
 body: # Overall Container
-  - type: textarea  # Types: Dropdown, Input, TextArea
+  - type: textarea
     id: description # Internal Reference
         attributes:
             label: "Description:"  # The question above the TextArea
