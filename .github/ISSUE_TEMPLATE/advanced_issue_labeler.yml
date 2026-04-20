@@ -1,2 +1,9 @@
 - name: Advanced Issue Labeler
   uses: redhat-plumbers-in-action/advanced-issue-labeler@v3.2.4
+  policy:
+  - template: ['bug_report.yml']
+    section:
+      - id: ['module']
+        label:
+          - name: '[Module] Focus'
+            keys: ['[Module] Focus']
