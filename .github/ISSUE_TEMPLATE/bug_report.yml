@@ -1,6 +1,5 @@
 name: Bug report
 description: Report a defect or broken behavior
-title: "[Bug]: "
 body:
   - type: dropdown
     id: issue_type
