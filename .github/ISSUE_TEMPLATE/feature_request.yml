@@ -8,3 +8,4 @@ body:
     options:
       - label: Objective Tracker (Focus)
       - label: Minimap (Vista)
+    required: true
