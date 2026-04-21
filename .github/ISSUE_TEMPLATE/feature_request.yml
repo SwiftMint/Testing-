@@ -4,6 +4,11 @@ description: Suggest a new capability
 
 body:
                     
+      - type: markdown
+        attributes:
+              value: "Please edit the issue afterwards to remove blank or unused sections."
+              
+      
       - type: textarea
         id: current
         attributes:
@@ -35,6 +40,3 @@ body:
       - type: markdown
         attributes:
               value: "**Module(s)** <br> **Priority**"
-      - type: markdown
-        attributes:
-              value: "<br>Please edit the issue afterwards to remove blank or unused sections."
