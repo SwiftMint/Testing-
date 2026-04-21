@@ -31,7 +31,7 @@ body:
 
       - type: markdown
         attributes:
-              value: "### Please apply the following!"
+              value: "### Please apply the following! <br> "
       - type: markdown
         attributes:
               value: "### --- Type --- "
