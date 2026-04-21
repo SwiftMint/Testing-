@@ -2,6 +2,7 @@ name: Feature request
 description: Suggest a new capability
 body:
 - type: checkboxes
+  id: module
   attributes:
     label:  Yep
     options:
