@@ -7,5 +7,6 @@ body:
     label:  Which modules are involved?
     options:
       - label: Objective Tracker (Focus)
+        required: false
       - label: Minimap (Vista)
-      required: true
+        required: true
