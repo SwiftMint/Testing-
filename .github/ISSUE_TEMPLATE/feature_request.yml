@@ -37,7 +37,7 @@ body:
               value: "### --- Type --- "
       - type: markdown
         attributes:
-              value: "**Enhancement** <br> "
+              value: "**Enhancement** <br> <br> "
       - type: markdown
         attributes:
               value: "### --- Labels --- "
