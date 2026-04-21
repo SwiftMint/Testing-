@@ -34,7 +34,7 @@ body:
               value: "### Please apply the following! <br> "
       - type: markdown
         attributes:
-              value: "### --- Type ---" "<br><br> **Enhancement** <br> <br>"
+              value: "### --- Type --- <br> <br> **Enhancement** <br> <br>"
       - type: markdown
         attributes:
               value: "### --- Labels --- <br> **Module(s)** <br> **Priority**"
