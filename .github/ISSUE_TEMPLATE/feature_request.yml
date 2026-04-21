@@ -11,8 +11,7 @@ body:
 
       - type: markdown
         attributes:
-              value: "Please avoid the use of third person and the past tense (I, me, did, had, etc.)
-
+              value: "Please avoid the use of third person and the past tense (I, me, did, had, etc.)"
       - type: textarea
         id: current
         attributes:
