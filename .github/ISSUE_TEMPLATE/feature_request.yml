@@ -34,13 +34,13 @@ body:
               value: "### Please apply the following!"
       - type: markdown
         attributes:
-              value: "#### Type"
+              value: "#### Type <br> --- "
       - type: markdown
         attributes:
               value: "**Enhancement**"
       - type: markdown
         attributes:
-              value: "#### Labels"
+              value: "#### Labels <br> --- "
       - type: markdown
         attributes:
               value:  "**Module(s)**"
