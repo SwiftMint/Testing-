@@ -7,15 +7,15 @@ body:
       - type: markdown
         attributes:
               value: "Please be clear and succinct, do not use whole sentences for the title."
-              
 
-      - type: markdown
-        attributes:
-              value: "Please avoid the use of third person and the past tense (I, me, did, had, etc.)"
+              
       - type: textarea
         id: current
         attributes:
               label: Description
+      - type: markdown
+        attributes:
+              value: "Please avoid the use of third person and the past tense (I, me, did, had, etc.)"
 
       - type: textarea
         id: expected
