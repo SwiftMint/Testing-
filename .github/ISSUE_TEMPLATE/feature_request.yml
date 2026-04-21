@@ -5,23 +5,22 @@ description: Suggest a new capability
 body:
       
       - type: markdown
-            attributes:
-            value: |
-
-                  "# TITLE SHOULD BE BRIEF (NO SENTENCES)
-                  "Keep in mind the module labels as they will provide necessary context."
-                  "For example, given an issue assigned the [bug] type and [[Module] Insight] label..."
-                  "DON'T, 'Tooltip Border':' Incorrect Class Colours"
-                  "DO, 'Border':' Class Colours"
-      
-                  "# Write in third-person, present tense."
-                  "This allows the reader (developer) to put themselves in the user's shoes easier."
-                  "DON'T, 'I just finished a delve and when I clicked on my minimap, I kept getting Lua errors until my game froze and crashed.'"
-                  "DO, 'Clicking the minimap after delve completion spawns continual Lua errors that freeze and eventually crash the client.'"
-      
-                  "# Remove filler words and phrases."
-                  "DON'T, 'Picture shows lag spike of 252 ms in Eversong Woods.'"
-                  "DO, 'Player - Eversong Woods, 252 ms spike'
+        attributes:
+              value: |
+                    "# TITLE SHOULD BE BRIEF (NO SENTENCES)
+                    "Keep in mind the module labels as they will provide necessary context."
+                    "For example, given an issue assigned the [bug] type and [[Module] Insight] label..."
+                    "DON'T, 'Tooltip Border':' Incorrect Class Colours"
+                    "DO, 'Border':' Class Colours"
+                    
+                    "# Write in third-person, present tense."
+                    "This allows the reader (developer) to put themselves in the user's shoes easier."
+                    "DON'T, 'I just finished a delve and when I clicked on my minimap, I kept getting Lua errors until my game froze and crashed.'"
+                    "DO, 'Clicking the minimap after delve completion spawns continual Lua errors that freeze and eventually crash the client.'"
+                    
+                    "# Remove filler words and phrases."
+                    "DON'T, 'Picture shows lag spike of 252 ms in Eversong Woods.'"
+                    "DO, 'Player - Eversong Woods, 252 ms spike'
 
       - type: textarea
             id: problem
