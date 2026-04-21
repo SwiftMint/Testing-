@@ -1,0 +1,7 @@
+policy:
+  - template: [bug_report.yml, feature_request.yml]
+    section:
+      - id: [module]
+        label:
+          - name: '[Module] Focus'
+            keys: ['[Module] Focus']
