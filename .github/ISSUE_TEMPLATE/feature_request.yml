@@ -37,4 +37,4 @@ body:
               value: "**Module(s)** <br> **Priority**"
       - type: markdown
         attributes:
-              value: "<br> **Thank you!** <br> Please edit the issue after submission to remove any blank or unused sections."
+              value: "Please edit the issue afterwards to remove blank or unused sections."
