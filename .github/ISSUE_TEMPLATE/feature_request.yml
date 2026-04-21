@@ -4,7 +4,7 @@ body:
 - type: checkboxes
   id: module
   attributes:
-    label:  Yep
+    label:  Which modules are involved?
     options:
-      - label: 100%
-      - label: 5,000%
+      - label: Objective Tracker (Focus)
+      - label: Minimap (Vista)
