@@ -7,6 +7,7 @@ body:
     label: Name
 - type: checkboxes
   attributes:
+    label: Name-1
     options:
       - label: 'Name'
       - label: 'Name-2'
