@@ -1,13 +1,10 @@
 name: Feature request
 description: Suggest a new capability
 body:
-- type: textarea
-  id: name_1
-  attributes:
-    label: Name
-- type: checkboxes
-  attributes:
-    label: Name-1
-    options:
-      - label: 'Name'
-      - label: 'Name-2'
+- type: markdown
+    - type: checkboxes
+      id: module
+      attributes:
+        label: Which one is it?
+        options:
+          - label: '[Module] Focus'
