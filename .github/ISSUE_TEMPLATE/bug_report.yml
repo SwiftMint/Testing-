@@ -1,6 +1,6 @@
 # GitHub Documentation can be found at: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/syntax-for-githubs-form-schema
 name: File a Bug Report 🐛
-description: An unexpected problem or behaviour
+description: An unexpected problem or behaviour.
 
 body:
                     
