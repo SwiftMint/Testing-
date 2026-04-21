@@ -30,7 +30,7 @@ body:
         - "[Module] Axis"
       multiple: true
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: description
