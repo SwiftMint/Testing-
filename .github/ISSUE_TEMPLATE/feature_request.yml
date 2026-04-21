@@ -1,10 +1,10 @@
 name: Feature request
 description: Suggest a new capability
 body:
-- type: markdown
     - type: checkboxes
-      id: module
-      attributes:
-        label: Which one is it?
-        options:
-          - label: '[Module] Focus'
+        id: module
+        attributes:
+            options:
+                - label: Objective Tracker (Focus)
+                - label: Minimap (Vista)
+            required: true
