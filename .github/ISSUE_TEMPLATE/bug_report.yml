@@ -29,13 +29,7 @@ body:
 
       - type: markdown
         attributes:
-              value: "### <br> Please apply the following! <br> "
-      - type: markdown
-        attributes:
-              value: "### <br> --- Type --- <br>"
-      - type: markdown
-        attributes:
-              value: "**Enhancement**"
+              value: "### <br> Please apply the following labels :) <br> "
       - type: markdown
         attributes:
               value: "### <br> --- Labels --- <br>"
