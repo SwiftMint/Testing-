@@ -25,7 +25,7 @@ body:
         id: reproduce
         attributes:
               label: To Reproduce
-              placeholder: "Please write in the present tense. You may use first-person if necessary"
+              placeholder: "Please write in the present tense. You may use first-person if necessary."
 
       - type: markdown
         attributes:
