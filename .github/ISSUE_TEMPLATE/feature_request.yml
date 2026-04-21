@@ -5,7 +5,6 @@ description: Suggest a new capability
 body:
       
       - type: markdown
-            id: introduction
             attributes:
             value: |
 
