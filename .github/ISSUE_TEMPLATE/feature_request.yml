@@ -29,4 +29,4 @@ body:
 
       - type: markdown
         attributes:
-              value: "# Don't forget to apply the appropriate..."
+              value: "## Don't forget to apply the appropriate..."
