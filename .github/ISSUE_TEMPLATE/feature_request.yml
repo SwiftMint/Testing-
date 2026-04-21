@@ -56,4 +56,5 @@ body:
 
   - type: markdown
     attributes:
-      value:  "| [ ] Focus"
+      value:  |
+        [ ] Focus"
