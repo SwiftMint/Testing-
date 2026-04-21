@@ -5,7 +5,6 @@ body:
   id:  description
   attributes:
     label: Describe the issue clearly and concisely.
-    tip:  "If you don't have all the information yet, that's okay!"
     placeholder: "<Insert Wonderful Issue Here>"
 - type: checkboxes
   id: module
