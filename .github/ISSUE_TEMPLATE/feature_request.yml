@@ -12,7 +12,7 @@ body:
         - "[Enhancement] Improvement"
         - "[Enhancement] Localization"
     validations:
-      required: true
+      required: false
 
   - type: dropdown
     id: module
