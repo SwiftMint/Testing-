@@ -43,7 +43,4 @@ body:
               value: "### --- Labels --- "
       - type: markdown
         attributes:
-              value:  "**Module(s)**"
-      - type: markdown
-        attributes:
-              value:  "**Priority**"
+              value:  "**Module(s)** <br> **Priority**"
