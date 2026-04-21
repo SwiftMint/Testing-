@@ -30,6 +30,8 @@ body:
       - type: markdown
         attributes:
               value: "### Don't forget to apply the appropriate..."
+      - type: markdown
+        attributes:
               value: |
                     - Type (Enhancement)
                     - Label ([Module] / [Enhancement] / [Priority])
