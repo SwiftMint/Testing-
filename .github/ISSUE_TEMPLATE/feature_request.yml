@@ -7,9 +7,9 @@ body:
   - type: markdown
     id: introduction
     attributes:
-      value: |
+      value: 
       
-      "# TITLE SHOULD BE BRIEF (NO SENTENCES)"
+      "# TITLE SHOULD BE BRIEF (NO SENTENCES)
       "Keep in mind the module labels as they will provide necessary context."
       "For example, given an issue assigned the [bug] type and [[Module] Insight] label..."
       "DON'T, 'Tooltip Border':' Incorrect Class Colours"
