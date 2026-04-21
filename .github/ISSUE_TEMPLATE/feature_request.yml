@@ -5,7 +5,7 @@ description: Suggest a new capability
 body:
 
       - type: textarea
-        id: problem
+        id: actual
         attributes:
               label: Description
         validations:
@@ -13,30 +13,21 @@ body:
 
 
       - type: textarea
-        id: problem
+        id: expected
         attributes:
-              label: Description
+              label: Expected Behaviour
         validations:
               required: true
 
 
       - type: textarea
-        id: problem
+        id: reproduce
         attributes:
-              label: Description
-        validations:
-              required: true
-
-
-      - type: textarea
-        id: problem
-        attributes:
-              label: Description
+              label: To Reproduce
         validations:
               required: true
 
       - type: markdown
-        id: reminder
         attributes:
               value: |
                     Don't forget to apply the appropriate...
