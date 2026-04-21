@@ -27,18 +27,10 @@ body:
               label: Use Cases
               placeholder: "Please write in the present tense. You may use first-person if necessary."
 
+
       - type: markdown
         attributes:
-              value: "### <br> Please apply the following! <br> "
+              value: "### <br> --- Don't forget labels! --- <br>"
       - type: markdown
         attributes:
-              value: "### <br> --- Type --- <br>"
-      - type: markdown
-        attributes:
-              value: "**Enhancement**"
-      - type: markdown
-        attributes:
-              value: "### <br> --- Labels --- <br>"
-      - type: markdown
-        attributes:
-              value: "**Module(s)** <br> **Priority**"
+              value: "**Feature** or **Improvement** <br> **Module(s)** <br> **Priority**"
