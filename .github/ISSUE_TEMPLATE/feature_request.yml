@@ -13,7 +13,7 @@ body:
         id: current
         attributes:
               label: Description
-              placeholder: "Please avoid the use of first person in favor of third person. <br> 1st Person = 'I, Me, Mine' <br> Please avoid the use of past tense in favor of present tense. <br> Past Tense = 'Did, Had, Went'"
+              placeholder: "Please avoid the use of first person and the past tense in favor of third person and the present tense. '"
 
       - type: textarea
         id: expected
