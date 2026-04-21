@@ -3,16 +3,6 @@ name: Feature request
 description: Suggest a new capability
 
 body:
-
-      - type: markdown
-        attributes:
-              value: |
-                    Filling out reports that are lacking in significant detail will lead to frustration on both your and the developer's ends.
-                    Do not abuse this privilege.
-                    
-                    None of the below fields are required as there are always edge cases where they are not needed.
-                    Please edit the final issue to remove these sections so as to reduce visual clutter.
-
                     
       - type: textarea
         id: actual
