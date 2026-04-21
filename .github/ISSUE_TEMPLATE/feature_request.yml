@@ -14,20 +14,21 @@ body:
     validations:
       required: true
 
-  - type: checkboxes
+  - type: dropdown
     id: module
     attributes:
       label: Module (label)
       description: Pick the closest module label.
       options:
-        - label: "[Module] Focus"
-        - label: "[Module] Presence"
-        - label: "[Module] Vista"
-        - label: "[Module] Cache"
-        - label: "[Module] Essence"
-        - label: "[Module] Insight"
-        - label: "[Module] Flow"
-        - label: "[Module] Axis"
+        - "[Module] Focus"
+        - "[Module] Presence"
+        - "[Module] Vista"
+        - "[Module] Cache"
+        - "[Module] Essence"
+        - "[Module] Insight"
+        - "[Module] Flow"
+        - "[Module] Axis"
+      multiple: true
     validations:
       required: true
 
