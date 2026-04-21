@@ -2,7 +2,7 @@ name: Feature request
 description: Suggest a new capability
 body:
     - type: checkboxes
-    attributes:
+        attributes:
             options:
-                - label: Objective Tracker (Focus)
-                - label: Minimap (Vista)
+            - label: Objective Tracker (Focus)
+            - label: Minimap (Vista)
