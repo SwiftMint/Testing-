@@ -23,11 +23,3 @@ body:
             "# Remove filler words and phrases."
             "DON'T, 'Picture shows lag spike of 252 ms in Eversong Woods.'"
             "DO, 'Player - Eversong Woods, 252 ms spike'
-  
-  - type: textarea
-      id: description
-      attributes:
-        label: Description
-        placeholder: Clearly and concisely explain the bug.
-        required: true
-        
