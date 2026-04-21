@@ -13,7 +13,7 @@ body:
         id: current
         attributes:
               label: Description
-              placeholder: "Please avoid the use of first person and the past tense in favor of third person and the present tense. '"
+              placeholder: "Please write in the present tense without the use of first-person."
 
       - type: textarea
         id: expected
