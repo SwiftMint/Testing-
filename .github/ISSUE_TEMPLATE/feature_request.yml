@@ -37,7 +37,7 @@ body:
               value: "**Type** - **Enhancement**"
       - type: markdown
         attributes:
-              value:  "**Module(s)**"
+              value:  "**Label(s)** - **Module(s)**"
       - type: markdown
         attributes:
-              value:  "**Priority**"
+              value:  "**Label** - **Priority**"
