@@ -27,6 +27,8 @@ body:
         validations:
               required: true
 
+
+
       - type: markdown
         attributes:
               value: "### Please apply the following!"
@@ -35,4 +37,7 @@ body:
               value: "**Type** - Enhancement"
       - type: markdown
         attributes:
-              value:  "**Module(s)** + Priority"
+              value:  "**Module(s)**"
+      - type: markdown
+        attributes:
+              value:  "**Priority**"
