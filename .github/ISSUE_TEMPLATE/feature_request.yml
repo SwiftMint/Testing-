@@ -2,6 +2,4 @@ name: Feature request
 description: Suggest a new capability
 body:
     - type: checkboxes
-        attributes:
-            options:
-            - label: Objective Tracker (Focus)
+        id: module
