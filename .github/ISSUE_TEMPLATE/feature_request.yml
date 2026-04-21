@@ -2,3 +2,7 @@ name: Feature request
 description: Suggest a new capability
 body:
 - type: checkboxes
+  label:  Yep
+  options:
+    - label: 100%
+    - label: 5,000%
