@@ -12,19 +12,19 @@ body:
       - type: textarea
         id: current
         attributes:
-              label: Description
+              label: Lack of Current Function
               placeholder: "Please write in the present tense without the use of first-person."
 
       - type: textarea
         id: expected
         attributes:
-              label: Expected Behaviour
+              label: Intended Function
               placeholder: "Please write in the present tense without the use of first-person."
               
       - type: textarea
         id: reproduce
         attributes:
-              label: To Reproduce
+              label: Use Cases
               placeholder: "Please write in the present tense. You may use first-person if necessary."
 
       - type: markdown
