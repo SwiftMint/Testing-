@@ -3,7 +3,6 @@ description: Suggest a new capability
 body:
     - type: checkboxes
         attributes:
-            label: Select which modules are involved.
             options:
                 - label: Objective Tracker (Focus)
                 - label: Minimap (Vista)
