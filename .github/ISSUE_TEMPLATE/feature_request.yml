@@ -5,28 +5,19 @@ description: Suggest a new capability
 body:
                     
       - type: textarea
-        id: actual
+        id: current
         attributes:
               label: Description
-        validations:
-              required: true
-
 
       - type: textarea
         id: expected
         attributes:
               label: Expected Behaviour
-        validations:
-              required: true
-
 
       - type: textarea
         id: reproduce
         attributes:
               label: To Reproduce
-        validations:
-              required: true
-
 
 
       - type: markdown
@@ -44,3 +35,6 @@ body:
       - type: markdown
         attributes:
               value: "**Module(s)** <br> **Priority**"
+      - type: markdown
+        attributes:
+              value: "<br> Thank you! Please edit the issue after submission to remove any blank or unused sections."
