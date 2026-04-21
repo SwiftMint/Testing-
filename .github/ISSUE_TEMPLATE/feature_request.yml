@@ -23,8 +23,8 @@ body:
                     "DO, 'Player - Eversong Woods, 252 ms spike'
 
       - type: textarea
-            id: problem
-            attributes:
-                  label: Description
-            validations:
-                  required: true
+        id: problem
+        attributes:
+              label: Description
+        validations:
+              required: true
