@@ -27,12 +27,10 @@ body:
               label: To Reproduce
               placeholder: "Please write in the present tense. You may use first-person if necessary."
 
+
       - type: markdown
         attributes:
-              value: "### <br> Please apply the following labels :) <br> "
-      - type: markdown
-        attributes:
-              value: "### <br> --- Labels --- <br>"
+              value: "### <br> --- Don't forget labels! --- <br>"
       - type: markdown
         attributes:
               value: "**Module(s)** <br> **Priority**"
