@@ -49,3 +49,11 @@ body:
       placeholder: "e.g. I often need to..."
     validations:
       required: false
+
+  - type: markdown
+    attributes:
+      value: "Which modules did these include?
+
+  - type: markdown
+    attributes:
+      value:  "| [ ] Focus"
