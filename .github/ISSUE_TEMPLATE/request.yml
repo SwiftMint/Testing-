@@ -12,4 +12,5 @@ body:
       - type: textarea
         id: current
         attributes:
+              label:  
               placeholder: "Please write in the present tense without the use of first-person."
