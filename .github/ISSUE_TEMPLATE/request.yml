@@ -4,13 +4,8 @@ description: A request, idea, or new functionality.
 
 body:
                     
-      - type: markdown
-        attributes:
-              value: "## Lack of Current Function"
-
-              
       - type: textarea
         id: current
         attributes:
-              label: "_ _"
+              label: "## Lack of Current Function"
               placeholder: "Please write in the present tense without the use of first-person."
