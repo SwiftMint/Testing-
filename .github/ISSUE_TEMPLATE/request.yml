@@ -13,7 +13,9 @@ body:
         id: current
         attributes:
               label: Lack of Current Function
-              description: Please write in the present tense without the use of first-person.
+              description: |
+                            Please put  `--` if this field does not apply.
+                            Delete this section after submission.
               placeholder: |
                             Please put  `--` if this field does not apply.
                             Delete this section after submission.
