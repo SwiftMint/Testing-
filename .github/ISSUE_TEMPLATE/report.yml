@@ -2,7 +2,6 @@
 name: 🐞 Bug
 description: File a bug/issue
 labels: Bug, Needs Triage
-
 ---
 
 <!--
@@ -11,6 +10,12 @@ Note: Please search to see if an issue already exists for the bug you encountere
 
 ### Current Behavior:
 <!-- A concise description of what you're experiencing. -->
+---
+body:
+- type:  textarea
+  attributes:
+    placeholder:  `"placeholder"
+---
 
 ### Expected Behavior:
 <!-- A concise description of what you expected to happen. -->
