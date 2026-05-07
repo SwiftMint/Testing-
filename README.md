@@ -2,6 +2,9 @@
 ![CurseForge Downloads](https://img.shields.io/curseforge/dt/1457844?style=for-the-badge) [![Discord](https://img.shields.io/discord/1471477531805749412?style=for-the-badge&label=Discord)](https://discord.gg/nFabdZmvSB)
 [![Patreon](https://img.shields.io/badge/build-donate-orange?&style=for-the-badge&label=patreon)](https://www.patreon.com/c/HorizonSuite) [![Ko-fi](https://img.shields.io/badge/build-tip-purple?&style=for-the-badge&label=Ko-fi)](https://ko-fi.com/horizonsuite)
 
+[![Discord](https://img.shields.io/discord/1471477531805749412?style=for-the-badge&logo=discord&label=JOIN%20THE%20COMMUNITY&color=%235865F2)
+](https://discord.gg/nFabdZmvSB)
+
 ---
 # 🌌 Horizon Suite 
 Driven by the community and customised for each member's sensibilities.
